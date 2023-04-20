@@ -22,4 +22,4 @@ happen
 - No republishing
 We have a no republishing 
 the games on this web site for money
-or with out permition from it 
+or with out permition from it.
