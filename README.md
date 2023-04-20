@@ -2,7 +2,7 @@
 
 A game survice that can give 
 free and paid games. With paid
-bundles
+bundles and lodes of fun. 
 
 ### Free Games
 
