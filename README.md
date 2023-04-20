@@ -6,7 +6,11 @@ bundles and lodes of fun.
 
 ### Free Games
 
+The free games consysts of
 
+- demos
+- games
+- and some small animtions
 
 ### Paid games 
 
