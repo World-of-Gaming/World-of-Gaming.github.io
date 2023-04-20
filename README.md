@@ -10,20 +10,24 @@ The free games consysts of
 
 - demos
 - games
-- and some small animtions
+- small animations
 
 ### Paid games 
 
+The paid games consysts of
 
+- Full games
+- longer animation
+- 
 
 #### Our Rules
 
 - No refund
-we have a no refunds in case we
+we have a no refunds rule in case we
 spend it in 5 minites which mite 
 happen
 
 - No republishing
-We have a no republishing 
-the games on this web site for money
-or with out permition from it.
+We have a no republishing rule.
+The games on this web site with 
+out permition from it.
