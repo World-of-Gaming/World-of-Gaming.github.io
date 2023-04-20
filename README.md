@@ -1,12 +1,13 @@
 # World of Gaming
 
 A game survice that can give 
-free and paid games. 
+free and paid games. With paid
+bundles
 
-# Free Games
+### Free Games
 
 
 
-# Paid games 
+### Paid games 
 
 
