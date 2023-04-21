@@ -27,7 +27,7 @@ and many more.
 
 #### Our Policies
 
-- No refund
+- No refunds
 
 We have a no refunds Policy. 
 In case we spend your money
