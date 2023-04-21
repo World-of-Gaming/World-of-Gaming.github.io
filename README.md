@@ -24,14 +24,14 @@ The paid games consysts of
 
 and meny more.
 
-#### Our Rules
+#### Our Policies
 
 - No refund
-we have a no refunds rule in case we
-spend it in 5 minites which mite 
-happen
+we have a no refunds Policy. 
+In case we spend it in 5 minites
+which mite happen.
 
 - No republishing
-We have a no republishing rule.
+We have a no republishing Policy.
 The games on this web site with 
 out permition from it.
