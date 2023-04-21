@@ -3,13 +3,31 @@
   <head>
     <title>World of Gaming</title>
     <script src="/js/manager.js" defer></script>
-    <style>body, html {font-family:sans-serif;}</style>
+    <script src="/js/themes.js" defer></script>
+    <style>body, html {font-family:sans-serif; 
+    color:white; background:black;} .btn {
+    height:60px; width:200px; border:none;
+    border-radius:8px; color:white;
+    background:green; cursor:pointer;
+    transition-duration:300ms;} .btn:hover {
+    background:red; transiton-duration:300ms;}</style>
   </head>
   <body dir="ltr">
     <main>
       <div class="header">
         <span class="name">
           <h1>World of Gaming</h1>
+        </span>
+        <span class="control-panel">
+          <a href="javascript:dark()">
+            <button>Dark theme</button>
+          </a>&nbsp;
+          <a href="javascript:light()">
+            <button>Light theme</button>
+          </a>&nbsp;
+          <a href="javascript:blue()">
+            <button>Blue theme</button>
+          </a>
         </span>
         <span class="line">
           <hr/>
