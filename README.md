@@ -11,14 +11,16 @@ The free games consysts of
 - demos
 - games
 - small animations
+and meny more.
 
 ### Paid games 
 
 The paid games consysts of
 
 - Full games
+- better games
 - longer animation
-- 
+and meny more.
 
 #### Our Rules
 
