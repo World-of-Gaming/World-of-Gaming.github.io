@@ -38,3 +38,8 @@ in 5 minutes which might happen.
 We have a no republishing Policy.
 The games on this web site with 
 out permission from it.
+
+
+### Credits
+- DuncanKoji &dash; Creator and Lead programmer
+- xt39 &dash; Helper and Lead Programmer
