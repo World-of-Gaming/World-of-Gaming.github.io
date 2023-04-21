@@ -27,11 +27,13 @@ and meny more.
 #### Our Policies
 
 - No refund
+
 we have a no refunds Policy. 
 In case we spend it in 5 minutes
 which might happen.
 
 - No republishing
+
 We have a no republishing Policy.
 The games on this web site with 
 out permition from it.
