@@ -4,10 +4,10 @@ function download(did) {
   window.open("/game/" + did);
 }
 
-function uplode(done) {
+function upload(done) {
   window.open("/file/" + done)
 }
 
 function pay(give) {
-  window.open("//" + give);
+  window.open("/checkout/" + give);
 }
