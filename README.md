@@ -29,8 +29,8 @@ and meny more.
 - No refund
 
 we have a no refunds Policy. 
-In case we spend it in 5 minutes
-which might happen.
+In case we spend your money
+in 5 minutes which might happen.
 
 - No republishing
 
