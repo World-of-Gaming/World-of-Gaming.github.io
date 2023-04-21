@@ -1,28 +1,29 @@
 # World of Gaming
 
-A game survice that can give 
+### About
+A game service that can give 
 free and paid games. With paid
-bundles and lodes of fun. 
+bundles and loads of fun. 
 
 ### Free Games
 
-The free games consysts of
+The free games consists of
 
-- demos
-- games
-- small animations
+- Demos
+- Games
+- Small animations
 
-and meny more.
+and many more.
 
 ### Paid games 
 
-The paid games consysts of
+The paid games consists of
 
 - Full games
 - better games
 - longer animation
 
-and meny more.
+and many more.
 
 #### Our Policies
 
@@ -36,4 +37,4 @@ in 5 minutes which might happen.
 
 We have a no republishing Policy.
 The games on this web site with 
-out permition from it.
+out permission from it.
