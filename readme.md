@@ -39,7 +39,6 @@ We have a no republishing Policy.
 The games on this web site with 
 out permission from it.
 
-
 ### Credits
-- DuncanKoji &dash; Creator and Lead programmer
+- DuncanKoji &dash; Creator and Lead Programmer
 - xt39 &dash; Helper and Lead Programmer
