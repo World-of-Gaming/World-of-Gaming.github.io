@@ -27,12 +27,12 @@ body, html {
 
 .btn:hover {
   background:red; 
-  transiton-duration:300ms;
+  transition-duration:300ms;
 }
 
 a, a:link, a:visited {
   text-decoration:none; 
-  color:lawngreen;
+  color:darkslategray;
 }
 
 a:hover, a:visited:hover {
